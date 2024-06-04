@@ -27,7 +27,11 @@
     "react-scripts": "3.4.3",
     "semantic-ui-css": "^2.4.0",
     "semantic-ui-react": "^0.88.1",
-    "typescript": "3.7.2"
+    "typescript": "3.7.2",
+    "grpc": "^1.24.3"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.0.0"
   },
   "devDependencies": {
     "cypress": "10.9.0",
@@ -50,3 +54,4 @@
     "not op_mini all"
   ]
 }
+

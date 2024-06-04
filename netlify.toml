@@ -8,3 +8,6 @@ package = "netlify-plugin-cypress"
   [plugins.inputs]
     record = true
     spa = "index.html"
+
+[build]
+  node_version = "18.20.3"
